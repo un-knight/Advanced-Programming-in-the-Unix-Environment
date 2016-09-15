@@ -1,3 +1,7 @@
+// date:15/9/2016
+// author:un-knight
+// at MIT license
+
 #include <unistd.h>
 #include <fcntl.h>
 #include <stdlib.h>
